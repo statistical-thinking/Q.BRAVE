@@ -1,4 +1,4 @@
-![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/Q-BRAVE.png?raw=true)
+![KI-ENNA](https://github.com/statistical-thinking/Q.BRAVE/blob/main/Q-BRAVE.png?raw=true)
 
 # Q-BRAVE
 (Q)uantum (B)it on (R)aspberry Pi (A)pplications for (V)irtual (E)xploration
